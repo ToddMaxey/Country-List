@@ -1,7 +1,7 @@
 
-#Global Connectivity Overview: Internet Infrastructure, Time Zones, Languages, and Telecom Data Across 197 Geopolitical Entities
+Global Connectivity Overview: Internet Infrastructure, Time Zones, Languages, and Telecom Data Across 197 Geopolitical Entities
 
-#Table
+Table
 | Country             | ISO Code | RIR Link   | Time Zone(s)                       | Daylight Saving Time | Primary Language(s)        | Telephone Code | Currency  | Population (2024 est.) | Economic Region        | Internet Penetration (%) | Emergency Number(s) | Global Internet Role                                                 |
 |---------------------|----------|------------|------------------------------------|----------------------|----------------------------|----------------|-----------|------------------------|------------------------|--------------------------|---------------------|---------------------------------------------------------------------|
 | [Afghanistan](https://en.wikipedia.org/wiki/Afghanistan) | AF       | [APNIC](https://www.apnic.net/)   | AFT (UTC+4:30)                        | No DST              | Dari, Pashto              | +93            | AFN       | 40.1 million           | SAARC                  | 18.4%                    | 119, 102, 100        | Limited internet infrastructure, emerging digital economy            |
